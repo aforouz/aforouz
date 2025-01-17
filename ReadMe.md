@@ -25,7 +25,7 @@ I love to work both independently and as a teammate with other experiment person
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 <!-- -->
-![Mathematica](https://img.shields.io/badge/Mathematica-ff1709?style=for-the-badge&logo=wolframalphamathematica&logoColor=white) 
+![Mathematica](https://img.shields.io/badge/Mathematica-ff1709?style=for-the-badge&logo=wolframmathematica&logoColor=white) 
 ![Matlab](https://img.shields.io/badge/Matlab-orange?style=for-the-badge) 
 ![Maple](https://img.shields.io/badge/Maple-blue?style=for-the-badge) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
