@@ -1,5 +1,9 @@
 # 💫 About Me:
-Scientific Computing Specialist<br>https://aforouzandeh.ir
+My interest is solving real-world problems with numerical methods and using parallel programming architectures.
+I love to work both independently and as a teammate with other experiment persons to learn from their knowledge. 
+And also, I have a good ability to communicate with new people. 
+My marital status is single. 
+I'm interested in swimming and biking and I like to play video games in my free time.
 
 
 ## 🌐 Socials:
@@ -24,8 +28,10 @@ Scientific Computing Specialist<br>https://aforouzandeh.ir
 ---
 [![](https://visitcount.itsvg.in/api?id=aforouz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aforouz) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aforouz) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aforouz) 
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aforouz) 
+[![زرین‌پال](https://avatars.githubusercontent.com/u/19504004?s=200&v=4)](https://zarinp.al/aforouz) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
