@@ -29,9 +29,9 @@ I'm interested in swimming and biking and I like to play video games in my free 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 <!-- -->
-![Mathematica](https://img.shields.io/badge/wolframmathematica.svg?style=for-the-badge&logo=wolframmathematica&logoColor=white) 
-![Matlab](https://img.shields.io/badge/Matlab-orange) 
-![Maple](https://img.shields.io/badge/Maple-blue) 
+![Mathematica](https://img.shields.io/badge/Mathematica-red?style=for-the-badge) 
+![Matlab](https://img.shields.io/badge/Matlab-orange?style=for-the-badge) 
+![Maple](https://img.shields.io/badge/Maple-blue?style=for-the-badge) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
