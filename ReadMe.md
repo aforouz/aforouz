@@ -29,9 +29,9 @@ I'm interested in swimming and biking and I like to play video games in my free 
 [![](https://visitcount.itsvg.in/api?id=aforouz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aforouz) 
+<!--[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aforouz) 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aforouz) 
-[![زرین‌پال](https://avatars.githubusercontent.com/u/19504004?s=30&v=4)](https://zarinp.al/670147) 
-
+[![زرین‌پال](https://avatars.githubusercontent.com/u/19504004?s=30&v=4)](https://zarinp.al/670147) -->
+[![ZarinPal](https://avatars.githubusercontent.com/u/19504004?s=70&v=4)](https://zarinp.al/670147) 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
