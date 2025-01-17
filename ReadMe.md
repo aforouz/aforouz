@@ -1,15 +1,11 @@
-# 💫 About Me:
+# 💫 About Me
 My interest is solving real-world problems with numerical methods and using parallel programming architectures.
-I love to work both independently and as a teammate with other experiment persons to learn from their knowledge. 
-And also, I have a good ability to communicate with new people. 
-My marital status is single. 
-I'm interested in swimming and biking and I like to play video games in my free time.
+I love to work both independently and as a teammate with other experiment persons to learn from their knowledge.
 
-
-## 🌐 Socials:
+## 🌐 Socials
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aforouz) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -29,7 +25,7 @@ I'm interested in swimming and biking and I like to play video games in my free 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 <!-- -->
-![Mathematica](https://img.shields.io/badge/Mathematica-red?style=for-the-badge) 
+![Mathematica](https://img.shields.io/badge/Mathematica-ff1709?style=for-the-badge) 
 ![Matlab](https://img.shields.io/badge/Matlab-orange?style=for-the-badge) 
 ![Maple](https://img.shields.io/badge/Maple-blue?style=for-the-badge) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
@@ -51,7 +47,7 @@ I'm interested in swimming and biking and I like to play video games in my free 
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 -->
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aforouz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=aforouz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
