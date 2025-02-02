@@ -38,7 +38,7 @@ I love to work both independently and as a teammate with other experiment person
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![MQTT](https://img.shields.io/badge/MQTT-ff1709?style=for-the-badge&logo=mqtt&logoColor=660066) 
+![MQTT](https://img.shields.io/badge/MQTT-white?style=for-the-badge&logo=mqtt&logoColor=660066) 
 
 <!-- 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
